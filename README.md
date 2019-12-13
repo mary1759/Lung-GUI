@@ -8,5 +8,6 @@ The GUI can be divided into three panels:
 1.	Control Panel
 2.	Image Panel
 3.	Feature Panel
-**Control Panel**: It consists of four push buttons as shown in figure 1.
-![Fig 1: Control panel options](image.png)
+<p>**Control Panel**: It consists of four push buttons as shown in figure 1.  <br>
+![Capturecontrolpanel](https://user-images.githubusercontent.com/44653871/70819925-08a01000-1d9d-11ea-9818-3fb6ca04c0b0.PNG)</p>
+
