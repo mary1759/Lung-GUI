@@ -10,8 +10,27 @@ The GUI can be divided into three panels:
 3.	Feature Panel   
 
 **Control Panel**: It consists of four push buttons as shown in figure 1.    
-![](Images/CaptureLoadImage.PNG)   
-
-*Load Image push button* loads all the images in the present working directory and displays using Image Panel. Figure 2 illustrates batch processing of GUI after the task completion.   
 
 ![](Images/Capturecontrolpanel.PNG)   
+ 
+*Load Image push button* loads all the images in the present working directory and displays using Image Panel. Figure 2 illustrates batch processing of GUI after the task completion.   
+
+![](Images/CaptureLoadImage.PNG)   
+
+*Threshold Mapping Segmentation push button* uses thresholding at multiple levels to segment the left and right lung and displays using Image panel axis. In addition to segmenting, it also calculates several parameters which has high clinical significance such as left lung volume, right lung volume, total lung volume, average left HU value, average right HU value, average HU value.      
+
+
+![](Images/CaptureThreshold.PNG)    
+
+*Emphysema Automatic push button* helps in identifying emphysema pixels automatically using thresholding. Green color is used to identify emphysema pixels in left lung and red color is used to identify right lung as shown in fig 4.     
+
+![](Images/Emphysema.PNG)    
+
+Sample RegionGrowing push button helps in segmenting the tumor using input from the user. User is expected to click once on the axis 1 (on left lung tumor) and on axis 2 (on right lung tumor) and then click enter, you can see the segmented tumor on both the axis.     
+
+**Image Panel**: Image panel consists of two axes, that can be used to view left lung and right lung.   
+
+![](Images/Featurepanel2.PNG)    
+
+
+
