@@ -10,7 +10,8 @@ The GUI can be divided into three panels:
 3.	Feature Panel   
 
 **Control Panel**: It consists of four push buttons as shown in figure 1.    
-![Capturecontrolpanel](https://user-images.githubusercontent.com/44653871/70819925-08a01000-1d9d-11ea-9818-3fb6ca04c0b0.PNG)
+![](Images/CaptureLoadImage.PNG)   
 
-![CaptureLoadImage](https://user-images.githubusercontent.com/44653871/70820466-5bc69280-1d9e-11ea-86dd-d6712665008a.PNG)
+*Load Image push button* loads all the images in the present working directory and displays using Image Panel. Figure 2 illustrates batch processing of GUI after the task completion.   
 
+![](Images/Capturecontrolpanel.PNG)   
